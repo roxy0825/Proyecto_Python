@@ -1,0 +1,2 @@
+mi_tabla=[['Juan', 'Laura'], [21,32]]
+prin (mi_tabla[0][0])
